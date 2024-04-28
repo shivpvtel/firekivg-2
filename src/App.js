@@ -1,4 +1,4 @@
-import logo from './images/spacelogo.jpg';
+import logo from './images/spacelogo.png';
 import './App.css';
 
 function App() {  
@@ -10,12 +10,7 @@ function App() {
           
           Shiv Patel
         </p>
-        <a
-          className="App-link"
-          href="https://Github.com/shivpvtel"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://Github.com/shivpvtel" >
           Github
         </a>
       </header>
